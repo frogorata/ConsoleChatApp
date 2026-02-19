@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleСhatApp", "ConsoleСhatApp\ConsoleСhatApp.csproj", "{F1EECEA4-AD23-4C71-8893-8F3D494C1256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EECEA4-AD23-4C71-8893-8F3D494C1256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EECEA4-AD23-4C71-8893-8F3D494C1256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EECEA4-AD23-4C71-8893-8F3D494C1256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EECEA4-AD23-4C71-8893-8F3D494C1256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7DBDDB-BE0F-4011-BB86-D784460402FE}
+	EndGlobalSection
+EndGlobal
